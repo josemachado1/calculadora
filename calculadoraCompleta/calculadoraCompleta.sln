@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadoraCompleta", "calculadoraCompleta\calculadoraCompleta.csproj", "{72D21572-186C-48D8-96F9-CDA6D5A8D4F9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DB142AC0-2D3A-44C3-918E-5AE9F6036ED7}"
+	ProjectSection(SolutionItems) = preProject
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
